@@ -56,11 +56,15 @@ coffee-ordering-system/
 
 ### Home Screen
 
+![image](https://github.com/user-attachments/assets/bcdc49c6-f008-4bfe-a863-d34640b67b4b)
+
 ### Menu Display
+
+![image](https://github.com/user-attachments/assets/3664accd-cd9f-4ebf-b254-e825f9ec541f)
 
 ### Cart Overview
 
-(Add your screenshots to a folder named screenshots in the repository and update the paths above.)
+![image](https://github.com/user-attachments/assets/c6c2250d-94cc-4da0-8c6b-9f5ec8ea6921)
 
 ## 🤝 Contributions
 Contributions are welcome! Feel free to fork this repository, make your changes, and create a pull request.
