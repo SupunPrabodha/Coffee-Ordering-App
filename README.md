@@ -25,7 +25,7 @@ A simple **Coffee Ordering Application** built in **Python**. This application p
 ### Steps to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<YourGitHubUsername>/coffee-ordering-system.git
+   git clone https://github.com/SupunPrabodha/Coffee-Ordering-app.git
 
 2. Navigate to the project directory:
   ```bash
