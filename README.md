@@ -29,7 +29,7 @@ A simple **Coffee Ordering Application** built in **Python**. This application p
 
 2. Navigate to the project directory:
   ```bash
-  cd coffee-ordering-system
+  cd Coffee Ordering App
   ```
 3. Run the application:
   ```bash
