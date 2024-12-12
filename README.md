@@ -70,4 +70,4 @@ coffee-ordering-system/
 Contributions are welcome! Feel free to fork this repository, make your changes, and create a pull request.
 
 ## 📜 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License.
