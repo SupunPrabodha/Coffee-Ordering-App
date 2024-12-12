@@ -20,7 +20,7 @@ A simple **Coffee Ordering Application** built in **Python**. This application p
 ## 🚀 How to Run the Project
 
 ### Prerequisites
-- Python 3.x installed on your machine.
+- **Python 3.x** installed on your machine.
 
 ### Steps to Run
 1. Clone the repository:
