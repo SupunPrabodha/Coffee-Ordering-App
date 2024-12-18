@@ -52,7 +52,6 @@ class CoffeeShop:
 
 
     def checkout(self):
-
         if not self.cart:
 
             print("\nYour cart is empty. Add items before checking out.")
