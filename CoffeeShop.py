@@ -68,7 +68,6 @@ class CoffeeShop:
 class CoffeeOrderingApp:
 
     def __init__(self):
-
         self.shop = CoffeeShop()
 
     def run(self):
