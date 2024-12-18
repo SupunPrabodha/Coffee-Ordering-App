@@ -29,8 +29,7 @@ class CoffeeShop:
         
             print("Invalid code. Please try again.")
 
-    def view_cart(self):
-        
+    def view_cart(self):        
         if not self.cart:
         
             print("\nYour cart is empty.")
