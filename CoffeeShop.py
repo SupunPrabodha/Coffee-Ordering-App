@@ -9,8 +9,7 @@ class CoffeeShop:
         }
         self.cart = []
 
-    def display_menu(self):
-        
+    def display_menu(self):   
         print("\n---Coffee Menu---")
         
         for code, (item, price) in self.menu.items():
