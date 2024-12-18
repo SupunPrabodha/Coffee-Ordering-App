@@ -16,8 +16,7 @@ class CoffeeShop:
         
             print(f"{code}: {item} - ${price:.2f}")
 
-    def add_to_cart(self, code, quantity):
-        
+    def add_to_cart(self, code, quantity):    
         if code in self.menu:
         
             item, price = self.menu[code]
