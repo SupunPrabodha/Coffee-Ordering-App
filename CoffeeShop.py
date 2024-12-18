@@ -70,7 +70,6 @@ class CoffeeOrderingApp:
         self.shop = CoffeeShop()
 
     def run(self):
-
         while True:
 
             print("\n---Coffee Ordering App---")
