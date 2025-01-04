@@ -1,7 +1,7 @@
 # ☕ Coffee Ordering System
 
 A simple **Coffee Ordering Application** built in **Python**. This application provides users with an interactive console-based menu to browse coffee options, add items to a cart, view the cart, and complete the checkout process.
- 
+
 ---
 
 ## 📋 Features
